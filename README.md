@@ -12,7 +12,8 @@ The website consists of two main sections:
 
 To run this project locally, follow the steps below:
 
-1. Clone the repository:git clone https://github.com/nag88840/mysuru-zoo.git
+1. Clone the repository:git clone : https://github.com/nag88840/mysuru-zoo.git 
+2.                               ( https://github.com/nag88840/Mysuru_zoo.git )
 
 2. Navigate to the project directory:cd mysuru-zoo
 
