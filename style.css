@@ -1,0 +1,150 @@
+jumbotron{
+  width: 100%;
+}
+dd{
+  background-color: rgba(21, 20, 20, 0.883);
+}
+
+.foot1{
+  background-color: rgb(150, 147, 147);
+  color: white;
+}
+.foot2{
+  background-color: black;
+  color: white;
+}
+.foot2 a{
+  color: white;
+
+}
+.navbar{
+  background-color: rgba(98, 97, 97, 0.5);
+}
+
+.navbar a {
+  color: #fff;
+}
+
+.navbar a:hover {
+  color:#d9d9d9;
+}
+
+
+.nav-item{
+  color:white;
+}
+
+navbar-toggler{
+     background-color: rgba(98, 97, 97, 0.5);
+   
+    border: 2px white solid;
+}
+navbar-toggler:hover{
+    color:#d9d9d9;
+}
+
+
+
+#image{
+    width: 100%;
+    height: auto;
+}
+.info{
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+   
+
+}
+
+ .bi-facebook {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin-right: 30px;
+    color: #fff;
+    background-color:#2d82dd;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    font-size: 24px;
+  }
+  .bi-facebook:hover{
+    color: #2d82dd;
+    background-color:#fff;
+
+  }
+  
+
+  .bi-youtube{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin-right: 30px;
+    color: white;
+    background-color:red;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    font-size: 24px;
+  }
+
+  .bi-youtube:hover{
+    background-color: white;
+    color: red;
+  }
+  
+  .bi-twitter {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin-right: 30px;
+    color: #fff;
+    background-color:#2d82dd;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    font-size: 24px;
+  }
+  .bi-twitter:hover{
+    color: #2d82dd;
+    background-color:#fff;
+
+  }
+
+  bi-geo-alt::before{
+    color: rgb(244, 134, 10);
+    background-color:red;
+  }
+
+  .image-text {
+    position: absolute;
+    bottom: 0;
+    color: white;
+    padding: 10px;
+    font-size: 50px;
+  }
+  
+
+  .title{
+    white-space: nowrap;
+    font-weight: bolder;
+    color: rgb(216, 138, 35);
+    border-bottom: 3px rgb(216, 138, 35) solid;
+    width: 40%;
+  }
+
+   
+  .pics h4{
+    margin-top: 3px;
+  }
+  .pics img{
+    border-radius: 10px;
+  }
+  p{
+    font-size: 20px;
+  }
+
+  
+ 
